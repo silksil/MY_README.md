@@ -1,4 +1,4 @@
-## SAY WHUT??
+## What's this?
 This is my personal README. The **aim of this document is to**:
 
 * Crystallise my thoughts and identify my most important values and principles in relation to work.
@@ -9,7 +9,7 @@ The **aim of this document is not to**:
 
 This document is work in progress, just like me. I am human and I make mistakes. Thus, I encourage my colleagues to hold me accountable and challenge my values and principles, as this allows me to improve myself as a colleague and person. 
 
-## ABOUT ME
+## About me
 1. Things you should know about me
 * ***I am a slow thinker***: If you have a challenging question, I can try to  directly answer, but I believe my input is most valuable if I thoughtfully reflect and get back to you. 
 * ***I need my quit time***:  Social interaction brings spice to my life and I can come across as an extravert. Nonetheless, I need my quiet time in order to reflect on my thoughts and feelings and recharge my energy levels.
@@ -17,7 +17,7 @@ This document is work in progress, just like me. I am human and I make mistakes.
 * ***I am not the smartest, so I priotize working smart***:  As a result, I engage in certain habits that I believe help my productivity, but that can come across a bit weird, such as fasting daily for a period of 16 hours a day, taking a handful supplements everyday or doing some breathing exercises in between coffee breaks.
 
 
-##  What I believe in
+##  What I believe n
 * ***Growth Mindset***: I believe in having a Growth Mindset.  I may not understanding something now, but by working hard, learning from others and accepting that I don’t know everything, I believe I can transition from a nobody to an expert. 
 * ***Deep Work***: I believe that work improves with the level of concentration, and that our current environment (including open work spaces and distracting phones)  have made it more difficult to engage in ‘Deep Work'. To channel my attention I may put on my headphones, move to a quiet space and do not priotize maintaining my inbox. 
 * ***Reflection***: Because of time-pressure or following opinions like 'because we’ve always done it that way’, I believe it easy to get caught up in tasks or activities without spending a lot of thought on the why and the how. Pritioizing time for reflection allows me to deconstruct the why and who in order to work more focused towards a certain goal and maximise my learnings.
