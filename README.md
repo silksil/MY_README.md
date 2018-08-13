@@ -12,7 +12,7 @@ This document is work in progress, just like me. I am human and I make mistakes.
 ## About me
 Things you should know about me:
 * **I am a [slow thinker](https://sivers.org/slow)**: If you have a challenging question, I can try to  directly answer, but I believe my input is most valuable if I thoughtfully reflect and get back to you. 
-* **I need my quit time**:  Social interaction brings spice to my life and I can come across as an extravert. Nonetheless, I need my quiet time in order to reflect on my thoughts and feelings and recharge my energy levels.
+* **I need to balance social and me time**:  Social interaction brings spice to my life. Nonetheless, I need my quiet time in order to reflect on my thoughts and feelings and recharge my energy levels.
 * **I speak my mind**: Saying things out loud is often a way for me to connect the dots in my head and learn. This doesn’t mean that it always make sense what I say, so encourage others to challenge my thoughts so I can learn. 
 * **I am not the smartest, so I priotize working smart**:  As a result, I engage in certain habits that I believe help my productivity, but that can come across a bit weird, such as fasting daily for a period of 16 hours a day, taking a handful supplements everyday or doing some breathing exercises in between coffee breaks.
 
