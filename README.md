@@ -1,14 +1,15 @@
 
-This is my personal README. The ***aim of this document*** is to to:
+This is my personal README. The **aim of this document is to**:
 
 -  Crystallise my thoughts and identify my most important values and principles in relation to work.
 -  Help my colleagues understand me better as a person and work together more efficiently and effectively. 
 
-I did not created this document to:
+The **aim of this document is not to**:
 -  To judge or state how my colleagues should think or act. I appreciate and respect if others think or work differently. 
+
 This document is work in progress, just like me. I am human and I make mistakes. Thus, I encourage my colleagues to hold me accountable and challenge my values and principles, as this allows me to improve myself as a colleague and person. 
 
-ABOUT ME
+## ABOUT ME
 1. Things you should know about me
 * I am a slow thinker: If you have a challenging question, I can try to  directly answer, but I believe my input is most valuable if I thoughtfully reflect and get back to you. 
 * I need my quit time.  Social interaction brings spice to my life and I can come across as an extravert. Nonetheless, I need my quiet time in order to reflect on my thoughts and feelings and recharge my energy levels.
