@@ -12,10 +12,9 @@ This document is work in progress, just like me. I am human and I make mistakes.
 ## About me
 Things you should know about me:
 * **I am a [slow thinker](https://sivers.org/slow)**: If you have a challenging question, I can try to  directly answer, but I believe my input is most valuable if I thoughtfully reflect and get back to you. 
-* **I need to balance social and me time**:  Social interaction brings spice to my life. Nonetheless, I need my quiet time in order to reflect on my thoughts and feelings and recharge my energy levels.
+* **I do weird things to improve my productivity**:  As a result, I engage in certain habits that I believe help my productivity, but that can come across a bit weird, such as fasting daily for a period of 16 hours a day, taking a handful supplements everyday or doing some breathing exercises in between coffee breaks.
+* **I can come across as an extravert, but I perceive myself more as an introvert**:  Social interaction brings spice to my life. Nonetheless, I need my quiet time in order to reflect on my thoughts and feelings and recharge my energy levels.
 * **I speak my mind**: Saying things out loud is often a way for me to connect the dots in my head and learn. This doesn’t mean that it always make sense what I say, so encourage others to challenge my thoughts so I can learn. 
-* **I am not the smartest, so I priotize working smart**:  As a result, I engage in certain habits that I believe help my productivity, but that can come across a bit weird, such as fasting daily for a period of 16 hours a day, taking a handful supplements everyday or doing some breathing exercises in between coffee breaks.
-
 
 ##  What I believe in
 * **[Growth Mindset](https://hbr.org/2016/01/what-having-a-growth-mindset-actually-means)**: I believe in having a Growth Mindset. I don't believe that qualities are carved in stone, but instead that by working hard, learning from others and accepting that you don't know everything, people can transition from a nobody to an expert. 
