@@ -17,9 +17,9 @@ Things you should know about me:
 * **I speak my mind**: Saying things out loud is often a way for me to connect the dots in my head and learn. This doesn’t mean that it always make sense what I say, so encourage others to challenge my thoughts so I can learn. 
 
 ##  What I believe in
-* **[Growth Mindset](https://hbr.org/2016/01/what-having-a-growth-mindset-actually-means)**: I believe in having a Growth Mindset. I don't believe that qualities are carved in stone, but instead that by working hard, learning from others and accepting that you don't know everything, people can transition from a nobody to an expert. 
 * **[Deep Work](https://evernote.com/blog/why-deep-work-matters-in-a-distracted-world/)**: I believe that work improves with the level of concentration, and that our current environment (including open work spaces and distracting phones) have made it more difficult to engage in ‘Deep Work'. To channel my attention I may put on my headphones, move to a quiet space and do not priotize maintaining my inbox. 
 * **Reflection**: Because of time-pressure or following opinions like 'because we’ve always done it that way’, I believe it easy to get caught up in tasks or activities without spending a lot of thought on the why and the how. Pritioizing time for reflection allows me to deconstruct the why and who in order to work more focused towards a certain goal and maximise my learnings.
+* **[Growth Mindset](https://hbr.org/2016/01/what-having-a-growth-mindset-actually-means)**: I believe in having a Growth Mindset. I don't believe that qualities are carved in stone, but instead that by working hard, learning from others and accepting that you don't know everything, people can transition from a nobody to an expert. 
 
 ## What I value most in a team/company
 * **Empathy and active listening**:  It triggers me if I have the feeling that someone is not actively listening others or me. Having empathy allows you to connect with your customers, create better products and be a better team. 
