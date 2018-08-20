@@ -22,6 +22,7 @@ Things you should know about me:
 * **[Growth Mindset](https://hbr.org/2016/01/what-having-a-growth-mindset-actually-means)**: I believe in having a Growth Mindset. I don't believe that qualities are carved in stone, but instead that by working hard, learning from others and accepting that you don't know everything, people can transition from a nobody to an expert. 
 
 ## What I value most in a team/company
+* **Having it's user as their north star**: I believe in working in a “user first” mentality, instead of a “features-first” ethos. This allows you to solve real problems for real people instead of building a few features here and there. 
 * **Empathy and active listening**:  It triggers me if I have the feeling that someone is not actively listening others or me. Having empathy allows you to connect with your customers, create better products and be a better team. 
 * **Critical thinking and open discussions**: I don’t fit in culture that takes decisions“ because we always did it like that”. In contrast, I do enjoy working in an environment in which  people are encouraged to share thoughts, ideas and questions, and that has employees that engage in passionate discussion in which everybody has the feeling he/she can contribute, be heard and feel respected. 
 * **Learning**:  Learning new things makes me happy, so it is essential for me to work in an environment where learning and personal development is emphasised.
