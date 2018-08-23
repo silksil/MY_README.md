@@ -1,13 +1,10 @@
 ## What's this?
-This is my personal README. The **aim of this document is to**:
+Inspired by various [articles](http://firstround.com/review/the-indispensable-document-for-the-modern-manager/) on creating your own user-guide in order to create transparency, set expectations and improve communication between collegues, I decided to create my own personal ReadME. My main **goals of this document is to**:
 
 * Crystallise my thoughts and identify my most important values and principles in relation to work.
 * Help my colleagues understand me better as a person and work together more efficiently and effectively. 
 
-The **aim of this document is not to**:
-* To judge or state how my colleagues should think or act. I appreciate and respect if others think or work differently. 
-
-This document is work in progress, just like me. I am human and I make mistakes. Thus, I encourage my colleagues to hold me accountable and challenge my values and principles, as this allows me to improve myself as a colleague and person. 
+This document is work in progress, just like me.
 
 ## About me
 Things you should know about me:
