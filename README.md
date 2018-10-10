@@ -1,5 +1,5 @@
 ## What's this?
-Inspired by various [articles](http://firstround.com/review/the-indispensable-document-for-the-modern-manager/) on creating your own user-guide in order to create transparency, set expectations and improve communication between collegues, I decided to create my own personal ReadME. My **main goals of this document** is to:
+Inspired by various [articles](http://firstround.com/review/the-indispensable-document-for-the-modern-manager/) on creating your own user-guide, I decided to create my own personal README. The **purpose of this document** is to:
 
 * Crystallise my thoughts and identify my most important values and principles in relation to work.
 * Help my colleagues understand me better as a person and work together more efficiently and effectively. 
@@ -17,9 +17,9 @@ Things you should know about me:
 ##  What I believe in
 * **[Deep Work](https://evernote.com/blog/why-deep-work-matters-in-a-distracted-world/)**: I believe that work improves with the level of concentration, and that our current environment (including open work spaces and distracting phones) have made it more difficult to engage in ‘Deep Work'. To channel my attention I may put on my headphones, move to a quiet space and do not priotize maintaining my inbox. 
 * **Reflection**: Because of time-pressure or following opinions like 'because we’ve always done it that way’, I believe it easy to get caught up in tasks or activities without spending a lot of thought on the why and the how. Pritioizing time for reflection allows me to deconstruct the why and who in order to work more focused towards a certain goal and maximise my learnings.
-* **[Growth Mindset](https://hbr.org/2016/01/what-having-a-growth-mindset-actually-means)**: I believe in having a Growth Mindset. I always had this urge to learn to program, but I didn't took initiative because I didn't saw myself as a stereotype programmer. Nonetheless, that perception changed andI started programming. I now believe that qualities are not carved in stone, but that by working hard, learning from others and accepting that you don't know everything, people can transition from a nobody to an expert. 
+* **[Growth Mindset](https://hbr.org/2016/01/what-having-a-growth-mindset-actually-means)**: I believe in having a Growth Mindset. I always had this urge to learn to program, but I didn't took initiative because I didn't saw myself as a stereotype programmer. Nonetheless, that perception changed and I started programming. I now believe that qualities are not carved in stone, but that by working hard, learning from others and accepting that you don't know everything, people can transition from a nobody to an expert. 
 
 ## What I value most in a team/company
 * **Having it's user as their north star**: I believe in working in a “user first” mentality, instead of a “features-first” ethos. This allows you to solve real problems for real people instead of building a few features here and there. 
-* **Empathy and active listening**: Having empathy and actively listening allows you to connect with your customers, create better products, be a better person and be a better team. 
-* **Critical thinking and open discussions**: I do enjoy working in an environment in which  people are encouraged to share thoughts, ideas and questions, and that has employees that engage in passionate discussion in which everybody has the feeling he/she can contribute, be heard and feel respected. 
+* **Empathy and active listening**: Having empathy and actively listening allows you to connect with your customers, create better products, be a better person and have a better functioning team. 
+* **Critical thinking and open discussions**: I do enjoy working in an environment in which people are encouraged to share thoughts, ideas and questions, and that has employees that engage in passionate discussion in which everybody has the feeling he/she can contribute, be heard and feel respected. 
