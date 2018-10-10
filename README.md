@@ -20,5 +20,5 @@ Things you should know about me:
 
 ## What I value most in a team/company
 * **Having it's user as their north star**: I believe in working in a “user first” mentality, instead of a “features-first” ethos. This allows you to solve real problems for real people instead of building a few features here and there. 
-* **Empathy and active listening**: Having empathy and actively listening allows you to connect with your customers, create better products and be a better team. 
-* **Critical thinking and open discussions**: I don’t fit in culture that takes decisions“ because we always did it like that”. In contrast, I do enjoy working in an environment in which  people are encouraged to share thoughts, ideas and questions, and that has employees that engage in passionate discussion in which everybody has the feeling he/she can contribute, be heard and feel respected. 
+* **Empathy and active listening**: Having empathy and actively listening allows you to connect with your customers, create better products, be a better person and be a better team. 
+* **Critical thinking and open discussions**: I do enjoy working in an environment in which  people are encouraged to share thoughts, ideas and questions, and that has employees that engage in passionate discussion in which everybody has the feeling he/she can contribute, be heard and feel respected. 
