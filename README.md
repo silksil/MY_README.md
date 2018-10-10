@@ -2,7 +2,7 @@
 Inspired by various [articles](http://firstround.com/review/the-indispensable-document-for-the-modern-manager/) on creating your own user-guide, I decided to create my own personal README. The **purpose of this document** is to:
 
 * Crystallise my thoughts and identify my most important values and principles in relation to work.
-* Help my colleagues understand me better as a person and work together more efficiently and effectively. 
+* Help my colleagues understand me better as a person and work together more effectively. 
 
 This document is work in progress, just like me.
 
